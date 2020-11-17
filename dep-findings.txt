@@ -1,0 +1,1 @@
+https://ossindex.sonatype.org/vuln/c667d263-3f0f-4d56-93bb-d15bbdf0c917?component-type=pypi&component-name=flask-login&utm_source=dependency-track&utm_medium=integration&utm_content=v3.8.0
