@@ -1,17 +1,9 @@
-asdasd
-
-CVE-2017-9735	17 Jun 2017	CWE-200 Information Exposure	
+CVE-2015-3254	17 Jun 2017	CWE-20 Improper Input Validation	
+Medium
+NVD CVE-2016-5397	12 Feb 2018	CWE-77 Improper Neutralization of Special Elements used in a Command ('Command Injection')	
 High
-NVD CVE-2017-7656	26 Jun 2018	-	
+NVD CVE-2018-11798	7 Jan 2019	CWE-538 File and Directory Information Exposure	
+Medium
+NVD CVE-2018-1320	7 Jan 2019	CWE-20 Improper Input Validation	
 High
-NVD CVE-2017-7657	26 Jun 2018	CWE-190 Integer Overflow or Wraparound	
-Critical
-NVD CVE-2017-7658	26 Jun 2018	CWE-444 Inconsistent Interpretation of HTTP Requests ('HTTP Request Smuggling')	
-Critical
-NVD CVE-2018-12536	27 Jun 2018	-	
-Medium
-NVD CVE-2019-10241	23 Apr 2019	CWE-79 Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')	
-Medium
-NVD CVE-2019-10247	23 Apr 2019	CWE-200 Information Exposure	
-Medium
-NVD CVE-2020-27216
+NVD CVE-2019-0205
